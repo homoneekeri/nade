@@ -31,8 +31,8 @@
       "grenade": {
         "run": 40,
         "recovery_yaw": 180
-       }
-     }
-   ]
+    }
+   }
+  ]
  }
 }
