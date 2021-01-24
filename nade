@@ -2,7 +2,7 @@
  "name": "leibs",
  "description": "bonari hiitti nadei",
  "locations": {
-  "de_guard": [
+   "de_guard": [
     {
       "name": ["Hell", "1W"],
       "weapon": "weapon_molotov",
@@ -31,6 +31,32 @@
       "grenade": {
         "run": 40,
         "recovery_yaw": 180
+      }
+    }
+  ],
+  "de_overpass": [
+    {
+      "name": ["Canal", "Barrels"],
+      "weapon": "weapon_hegrenade",
+      "position": [-590.58868408203, -1236.5711669922, 110.32052612305],
+      "viewangles": [6.2138929367065, 97.575500488281],
+      "grenade": {
+        "run": 26,
+        "recovery_yaw": 0,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Barrels", "Kolo"],
+      "weapon": "weapon_molotov",
+      "position": [-841.08062744141, 495.99472045898, 96.03125],
+      "viewangles": [-18.78018951416, -127.86744689941]
+    },
+    {
+      "name": ["Water", "Kolo"],
+      "weapon": "weapon_molotov",
+      "position": [-1152.9151611328, 367.46069335938, 48.772323608398],
+      "viewangles": [-17.90246963501, -114.76934051514]
     }
    }
   ]
